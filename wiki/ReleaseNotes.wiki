@@ -1,0 +1,10 @@
+#labels Featured,Phase-Requirements
+= Version 1.0.0 =
+==Issues solved==
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+==New features==
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
