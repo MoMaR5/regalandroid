@@ -1,10 +1,23 @@
 #labels Featured,Phase-Requirements
-= Version 1.0.0 =
+= Version 1.0.0 , released on Tuesday the 21st of December=
 ==Issues solved==
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * issue #4 : Screen resolution
+  * issue #7 : share feature fault
+  * issue #11 : impossible to see pictures in root album
+  * issue #16 : filenames with accents
+  * issue #20 : App Loses Connection and Starts Over when Screen is Flipped 
+
 ==New features==
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+    * Sharing and sending photo (via twidroid and mail for example)
+    * Jump to photo feature
+    * Full screen navigation
+    * Cache feature (speeds up the navigation a lot)
+    * I18N (french, chinese zh_CN and zh_TW, please contribute translation regalandroid in your language is as easy as translating those values!)
+    * browsing the albums
+    * browsing and displaying the pictures
+    * displaying the number of pictures in each album
+    * uploading a photo to the gallery--only for G2 galleries
+    * creating a new sub album--only for G2 galleries
+    * send one or many photos from Android gallery app--only for G2 galleries
+    * take a picture (using the camera) and send it to the remote gallery--only for G2 galleries 
+   
