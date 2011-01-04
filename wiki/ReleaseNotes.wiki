@@ -6,6 +6,7 @@
   * issue #11 : impossible to see pictures in root album
   * issue #16 : filenames with accents
   * issue #20 : App Loses Connection and Starts Over when Screen is Flipped 
+  * issue #8	Feature request: display number of pictures in album
 
 ==New features==
     * Sharing and sending photo (via twidroid and mail for example)
