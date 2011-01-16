@@ -1,4 +1,16 @@
 #labels Featured,Phase-Requirements
+= Version 1.0.1 , released on Sunday the 16th of January 2011 Bug fixes=
+==Issues solved==
+  * issue #23 : User-Agent label needs updating 
+  * issue #32 : G3GalleryException: Value null at owner_id of type org.json. JSONbject$1 cannot be converted to int 
+  * issue #33 : G2Connection.getAlbumAndSubAlbumsAndPictures(G2Connection.java:87) NPE [crash reported by users via Android Market] 
+  * issue #38 : G3GalleryException: Value [] at relationships of type org.json.JSONArray cannot be converted to JSONObject 
+
+==New features==
+    * No new features :-(
+   
+
+
 = Version 1.0.0 , released on Tuesday the 21st of December=
 ==Issues solved==
   * issue #4 : Screen resolution
