@@ -1,4 +1,22 @@
 #labels Featured,Phase-Requirements
+= Version 1.1.0 , released on Saturday the 23rd of April 2011 : Upload to G3 & Piwigo beta support=
+==Issues solved==
+  * issue #45 : G2 : can not upload picture : Text may not be null  
+  * issue #22 : on large display, full size picture should scale  
+  * issue #39 : All : remove "No summary available" label when no summary is available  
+
+
+==New features==
+  * German translation by Ralph Kapsammer (thank you !)
+  * G3 beta support for uploading & album creation
+  * Piwigo beta support for uploading & album creations (*you have to install the Piwigo plugin pwg.images.addSimple* on your Piwigo Gallery)
+  * issue #51 : G3 - add support for url rewriting (nice urls) 
+  * issue #53 : Allow installation to SD card 
+
+
+
+
+
 = Version 1.0.1 , released on Sunday the 16th of January 2011 Bug fixes=
 ==Issues solved==
   * issue #23 : User-Agent label needs updating 
