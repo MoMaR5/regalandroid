@@ -1,4 +1,10 @@
 #labels Featured,Phase-Requirements
+= Version 1.1.1 , released on Thursday the 20th of November 2011 : honeycomb support=
+==Issues solved==
+  * issue #82 : g3 : if comments are disable, did not work  
+  * issue #83 : honeycomb support downloading the thumbs in a non UI thread
+
+
 = Version 1.1.0 , released on Saturday the 23rd of April 2011 : Upload to G3 & Piwigo beta support=
 ==Issues solved==
   * issue #45 : G2 : can not upload picture : Text may not be null  
