@@ -1,4 +1,15 @@
 #labels Featured,Phase-Requirements
+= Version 1.1.2 , released on Sundays the 23rd of October 2011 : better g3 support=
+==Issues solved==
+  * Issue #6: 	G3 : HTTP 414 error when loading albums with many pictures 
+  * Issue #10: 	G3 : Request: Album Thumbnails
+  * Issue #54: 	G3 : the sub-albums are not displayed (even if logged in)
+  * Issue #67: 	FC : java.lang.NullPointerException ShowGallery.onResume(ShowGallery.java:127)
+  * Issue #68: 	FC : java.lang.IllegalArgumentException URI.create() Illegal character in path
+  * Issue 69: 	FC : java.lang.NullPointerException net.dahanne.android.regalandroid.utils.AndroidUriUtils.extractFilenameFromUri(AndroidUriUtils.java:65) 
+  * Issue 40: 	G3 : when too many sub albums, none of them are displayed
+  * Issue 63: 	G3 : Main album is empty ('This album does not contain any pictures!')
+
 = Version 1.1.1 , released on Thursday the 20th of October 2011 : honeycomb support=
 ==Issues solved==
   * issue #82 : g3 : if comments are disable, did not work  
