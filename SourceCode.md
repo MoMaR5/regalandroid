@@ -1,0 +1,5 @@
+# The source is located at GitHub #
+Go and check this page below if you want to have a look or build  ReGalAndroid or any of its sub-modules (g2-java-client, g3-java-client, etc..)
+Everything is explained there
+
+http://github.com/anthonydahanne/ReGalAndroid
